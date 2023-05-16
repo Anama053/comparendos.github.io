@@ -38,6 +38,7 @@ Curso normal de eventos:
 
 
 # Pseudocodigo
+El Pseudocodigo es:
 
 Algoritmo comparendos
 
