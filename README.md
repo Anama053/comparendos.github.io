@@ -60,7 +60,7 @@ Algoritmo comparendos
 		total=total+(C02+C14+C29);
 		usuario=usuario+((infraccionC02[i]+infraccionC14[i]+infraccionC29[i])/curso);
 	Fin Para
-	Escribir "La promedio de usuarios atendidos por curso es: " usuario
+	Escribir "El promedio de usuarios atendidos por curso es: " usuario
 	Escribir "La cantidad total de comparendo es: " total
 	Escribir "Total de cursos: " curso
 FinAlgoritmo
