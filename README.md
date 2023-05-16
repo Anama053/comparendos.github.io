@@ -71,8 +71,8 @@ FinAlgoritmo
 
 # Codigo En Java
 
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class comparendos
 {
    public static void main (String[] args){
