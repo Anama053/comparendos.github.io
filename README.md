@@ -7,7 +7,9 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 # Levantamiento de información 
 
 *En la aplicación se solicita para calcular cuantas personas ingresan a curso en un dia
+
 *En la aplicación se solicita saber cual es infracción por la cual mas hacen curso
+
 *Dentro de la apliacion se solcitan los campos de: No. asistentes, infraccion
 
 # Analisis del caso
