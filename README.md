@@ -70,9 +70,10 @@ Algoritmo comparendos
 FinAlgoritmo
 
 # Codigo En Java
-
+El codigo de la aplicacion es:
 
 import java.util.Scanner;
+
 public class comparendos
 {
    public static void main (String[] args){
