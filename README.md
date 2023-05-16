@@ -38,6 +38,7 @@ Curso normal de eventos:
 
 
 # Pseudocodigo
+
 El Pseudocodigo es:
 
 Algoritmo comparendos
@@ -71,6 +72,7 @@ Algoritmo comparendos
 FinAlgoritmo
 
 # Codigo En Java
+
 El codigo de la aplicacion es:
 
 import java.util.Scanner;
@@ -106,14 +108,13 @@ public class comparendos
             infraccionC14[i]=C14;
             infraccionC29[i]=C29;
         }
-        for (i = 0; i < curso; i++) {
-        
+        for (i = 0; i < curso; i++) {        
             total=total+(C02+C14+C29);
             usuario=usuario+((infraccionC02[i]+infraccionC14[i]+infraccionC29[i])/curso);
         }
         System.out.println("La promedio de usuarios atendidos por curso es: " + usuario);
         System.out.println("La cantidad total de comparendo es: " + total);
-        System.out.println("Total de cursos "+curso);        
+        System.out.println("Total de cursos "+curso);     
    }
 }
 
