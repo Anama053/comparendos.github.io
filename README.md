@@ -21,8 +21,8 @@ Descripcion del caso:
 
 Nombre: Calcular promedio de asistentes a curso
 
-Actores: Secretaria Distiirtal de Movilidad
-Proposito: Guardar Infracciòn, 
+Actores: Secretaria Distrital de Movilidad
+Proposito: Guardar cantidad de cursos, promedio de asistentes y total comparendos 
 
 Curso normal de eventos:
   1. El funcionario ingresa la cantidad de cursos
