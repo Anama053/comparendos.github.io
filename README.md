@@ -21,6 +21,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 # Aproximacion del caso de uso
 
 ![image](https://github.com/Anama053/comparendos.github.io/assets/113647233/61a7cd13-08df-4efb-aff6-e487df8e81da)
+
 Descripcion del caso:
 
 Nombre: Calcular promedio de asistentes a curso
