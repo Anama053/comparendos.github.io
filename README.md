@@ -36,7 +36,9 @@ Curso normal de eventos:
 # Pseudocodigo
 
 Algoritmo comparendos
+
 	Definir C02, C14, C29, i Como Entero
+	
 	Dimension infraccionC02[50], infraccionC14[50], infraccionC29[50]
 	Definir total Como Real
 	Escribir "*****PROGRAMA DE PROMEDIO DE CURSOS IMPARTIDOS*****" 
