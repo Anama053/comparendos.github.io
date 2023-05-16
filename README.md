@@ -27,7 +27,7 @@ Proposito: Guardar Infracciòn,
 Curso normal de eventos:
   1. El funcionario ingresa la cantidad de cursos
   2. El Funcionario ingresa la infraccion y cantidad de asistentes
-  3. Se calcula el promedio a partir de (Σ(infraccion1, infraccion2, infraccionN)/Cantidad asistentes)
+  3. Se calcula el promedio a partir de (Σ(infraccion1, infraccion2, infraccionN)/Cantidad cursos)
   4. Se muestra el promedio de los asistentes
   5. Se muestra la cantidad de cursos
   6. Se muestra la cantidad de comparendos
