@@ -14,6 +14,9 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 # Analisis del caso
 
+![image](https://github.com/Anama053/comparendos.github.io/assets/113647233/71a5deae-ca2f-4929-9cd4-80a05d6a52fc)
+![image](https://github.com/Anama053/comparendos.github.io/assets/113647233/83b8e3be-e162-4035-801b-5e8697365207)
+
 
 # Aproximacion del caso de uso
 
