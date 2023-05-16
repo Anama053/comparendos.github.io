@@ -20,8 +20,10 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 Descripcion del caso:
 
 Nombre: Calcular promedio de asistentes a curso
+
 Actores: Secretaria Distiirtal de Movilidad
 Proposito: Guardar Infracciòn, 
+
 Curso normal de eventos:
   1. El funcionario ingresa la cantidad de cursos
   2. El Funcionario ingresa la infraccion y cantidad de asistentes
