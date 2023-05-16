@@ -20,7 +20,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 # Aproximacion del caso de uso
 
-![image](https://github.com/Anama053/comparendos.github.io/assets/113647233/61a7cd13-08df-4efb-aff6-e487df8e81da)
+![image](https://github.com/Anama053/comparendos.github.io/assets/113647233/95ccd317-99a0-495b-98e1-f59844ba7fd9)
 
 Descripcion del caso:
 
